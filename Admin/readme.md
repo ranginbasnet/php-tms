@@ -14,3 +14,12 @@ git add .
 git commit -m "message"
 git pull 
 git push origin main
+
+
+Methods:
+
+POST   : insert data
+GET     : fetch data
+DELETE  : delete data
+PUT     : edit data
+PATCH   :
