@@ -11,7 +11,7 @@ git push -u origin main
 
 To update git Project:
 git add .
-git commit -m "message"
+git commit -m 
 git pull 
 git push origin main
 

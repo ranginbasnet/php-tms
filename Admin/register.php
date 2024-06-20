@@ -16,7 +16,7 @@
     <section>
         <div class="container w-25 shadow  p-5">
             <div class="text-center">
-                <h3>Login</h3>
+                <h3>Register</h3>
             </div>
             <?php
 
