@@ -11,12 +11,12 @@ git push -u origin main
 
 To update git Project:
 git add .
-git commit -m 
+git commit -m "dgdfgdfdg"
 git pull 
 git push origin main
 
 
-Methods:
+Methods: 
 
 POST   : insert data
 GET     : fetch data
