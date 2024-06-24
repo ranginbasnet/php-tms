@@ -23,3 +23,10 @@ GET     : fetch data
 DELETE  : delete data
 PUT     : edit data
 PATCH   :
+
+
+
+Database:
+users:
+id | name | username | email | password | status | created_at | updated_at
+int| Varchar (50) | Varchar (50) | Varchar (50) | Text | int default(as Define : 1) | Timestamp | Timestamp
